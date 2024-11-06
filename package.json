@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "convert": "node scripts/convertListings.js"
+  },
+  "type": "module"
+} 
